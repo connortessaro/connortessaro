@@ -52,12 +52,14 @@ Fixed DateTime fields returning `Invalid Date` for `unixepoch-ms` timestamps in 
 
 ## Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=connortessaro&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=16784a&title_color=16784a&ring_color=16784a" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=connortessaro&hide_border=true&background=0d1117&stroke=1f2933&ring=16784a&fire=16784a&currStreakLabel=16784a&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=connortessaro&theme=github_dark" alt="profile summary" />
+<img height="165" src="https://streak-stats.demolab.com/?user=connortessaro&hide_border=true&background=0d1117&stroke=1f2933&ring=16784a&fire=16784a&currStreakLabel=16784a&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="streak" />
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=connortessaro&bg_color=0d1117&color=c9d1d9&line=16784a&point=ffffff&area=true&area_color=16784a&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=connortessaro&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=connortessaro&theme=github_dark" alt="languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=connortessaro&theme=github_dark" alt="most commits" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=connortessaro&theme=github_dark&utcOffset=-4" alt="productive time" />
 
 </div>
 
