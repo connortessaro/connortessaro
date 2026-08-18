@@ -46,6 +46,5 @@
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=connortessaro&bg_color=0d1117&color=c9d1d9&line=16784a&point=ffffff&area=true&area_color=16784a&hide_border=true&custom_title=Contributions" alt="activity graph" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:16784a,100:0f2027&height=100&section=footer" width="100%" alt="" />
 
 </div>
