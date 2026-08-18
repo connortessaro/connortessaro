@@ -32,13 +32,26 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Core Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tauri_v2-FFC131?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MCP_Native-6366F1?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+</p>
 
 ```text
-Languages     :: TypeScript, Rust, Python, Java, C++, SQL, Go
-Frontend/App  :: React 19, Tauri v2, Next.js, TailwindCSS, Vite
-Backend/Cloud :: Node.js, FastAPI, PostgreSQL, SQLite, Redis, AWS, Docker, Terraform
-ML & Tooling  :: Model Context Protocol (MCP), LLM Evals, XGBoost, Pandas, Git, CI/CD
+Systems Architecture :: Local-first Desktop Engines, Confidential Compute, LLM Eval Suites, Microservices
+Tools & Data Pipeline :: Model Context Protocol (MCP), XGBoost, Redis, Terraform, CI/CD Actions
 ```
 
 ---
