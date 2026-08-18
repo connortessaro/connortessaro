@@ -26,6 +26,7 @@
 
 | | |
 | :-- | :-- |
+| **[omni](https://github.com/connortessaro/omni)** | Fast, stealthy AI desktop overlay assistant built with Tauri v2, Rust & React. Slash commands, keyboard prompt history, 1-click local Ollama auto-discovery, zero telemetry. Apache-2.0. |
 | **[kizuki](https://github.com/connortessaro/kizuki)** | Agent-neutral intelligence layer over your work. Local git-tracked vault, MCP-native, never acts on your behalf. Apache-2.0. |
 | **[prisma/prisma](https://github.com/prisma/prisma)** | Fixed DateTime fields returning `Invalid Date` for `unixepoch-ms` timestamps in the better-sqlite3 driver adapter, with a regression test. [#29274](https://github.com/prisma/prisma/pull/29274) |
 
@@ -40,7 +41,7 @@
 
 ## Stack
 
-`TypeScript` `Python` `Java` `C++` `SQL` &nbsp;·&nbsp; `React` `Next.js` `SvelteKit` `Node.js` `FastAPI` &nbsp;·&nbsp; `Postgres` `Snowflake` `XGBoost` `pandas` &nbsp;·&nbsp; `AWS` `Terraform` `Docker` `Jenkins`
+`TypeScript` `Python` `Rust` `Java` `C++` `SQL` &nbsp;·&nbsp; `React` `Tauri` `Next.js` `SvelteKit` `Node.js` `FastAPI` &nbsp;·&nbsp; `Postgres` `SQLite` `Snowflake` `XGBoost` `pandas` &nbsp;·&nbsp; `AWS` `Terraform` `Docker` `Jenkins`
 
 <div align="center">
 
