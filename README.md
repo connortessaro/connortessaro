@@ -1,51 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:16784a,100:2c5364&height=200&section=header&text=Connor%20Tessaro&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Backend%20systems,%20shipped%20as%20products&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Connor Tessaro" />
+# Connor Tessaro
 
-**SWE Co-op @ Chewy** &nbsp;·&nbsp; **CS @ Northeastern '28** &nbsp;·&nbsp; Boston
+**Software Engineer & Systems Builder** &nbsp;·&nbsp; **CS @ Northeastern '28** &nbsp;·&nbsp; **SWE Co-op @ Chewy**
 
-<a href="https://ringi.dev"><img src="https://img.shields.io/badge/ringi.dev-16784a?style=for-the-badge&logo=slack&logoColor=white" alt="Ringi" /></a>
-<a href="https://phantom.codes"><img src="https://img.shields.io/badge/phantom.codes-16784a?style=for-the-badge&logo=openai&logoColor=white" alt="Phantom AI" /></a>
-<a href="mailto:tessaro.c@northeastern.edu"><img src="https://img.shields.io/badge/email-1f2933?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/connortessaro"><img src="https://img.shields.io/badge/linkedin-1f2933?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
-<img src="https://raw.githubusercontent.com/connortessaro/connortessaro/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
+[![Ringi](https://img.shields.io/badge/Ringi-ringi.dev-10b981?style=flat-square&logo=slack&logoColor=white)](https://ringi.dev)
+[![Phantom AI](https://img.shields.io/badge/Phantom_AI-phantom.codes-10b981?style=flat-square&logo=openai&logoColor=white)](https://phantom.codes)
+[![Omni](https://img.shields.io/badge/Omni-AI_Desktop-blue?style=flat-square&logo=tauri&logoColor=white)](https://github.com/connortessaro/omni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connortessaro-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/connortessaro)
+[![Email](https://img.shields.io/badge/Email-tessaro.c@northeastern.edu-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tessaro.c@northeastern.edu)
 
 </div>
 
-## Products
+---
 
-| | |
-| :-- | :-- |
-| **[Ringi](https://ringi.dev)** | Slack agent that replaces the status meeting — DMs each stakeholder, extracts their position with an LLM, and returns a brief naming the actual crux. Shipped behind a fixture-graded eval harness and 390+ tests. |
-| **[Phantom&nbsp;AI](https://phantom.codes)** | Anonymous inference proxy. Pay in crypto, get an OpenAI-compatible key. **$5.7K** processed across **34 users**; requests route through confidential-compute enclaves and secrets never touch disk. |
+### 🚀 Featured Systems & Open Source
 
-<sub>Product source is private — the links go to the live thing.</sub>
+* **[Omni](https://github.com/connortessaro/omni)** — Fast, privacy-first AI desktop companion built with **Tauri v2**, **Rust**, and **React 19**. Features an instant HUD overlay (`⌘ + \`), 1-click local Ollama auto-discovery, multimodal vision, smart slash commands, and zero telemetry (`omni.db`).
+* **[Ringi](https://ringi.dev)** — Autonomous Slack agent that replaces asynchronous status meetings. Extracts stakeholder consensus and pinpoints bottlenecks. Backed by fixture-graded eval suites and 390+ unit/integration tests.
+* **[Phantom AI](https://phantom.codes)** — Anonymous zero-knowledge LLM inference proxy. Pay-per-request via crypto with OpenAI-compatible endpoint. Routed through confidential-compute enclaves with zero disk persistence ($5.7K+ volume).
+* **[Kizuki](https://github.com/connortessaro/kizuki)** — Agent-neutral intelligence layer over local workspace data. Git-tracked, MCP-native local knowledge vault.
+* **[Prisma Engine Contributor](https://github.com/prisma/prisma/pull/29274)** — Resolved `DateTime` `Invalid Date` regression on `unixepoch-ms` timestamps in the `better-sqlite3` driver adapter ([#29274](https://github.com/prisma/prisma/pull/29274)).
 
-## Open source
+---
 
-| | |
-| :-- | :-- |
-| **[omni](https://github.com/connortessaro/omni)** | Fast, stealthy AI desktop overlay assistant built with Tauri v2, Rust & React. Slash commands, keyboard prompt history, 1-click local Ollama auto-discovery, zero telemetry. Apache-2.0. |
-| **[kizuki](https://github.com/connortessaro/kizuki)** | Agent-neutral intelligence layer over your work. Local git-tracked vault, MCP-native, never acts on your behalf. Apache-2.0. |
-| **[arc](https://github.com/connortessaro/arc)** | Premium operator shell for orchestrating agentic coding work and developer workflows. Apache-2.0. |
-| **[prisma/prisma](https://github.com/prisma/prisma)** | Fixed DateTime fields returning `Invalid Date` for `unixepoch-ms` timestamps in the better-sqlite3 driver adapter, with a regression test. [#29274](https://github.com/prisma/prisma/pull/29274) |
+### 📦 Tools & Projects
 
-## Also here
+* **[prooflane](https://github.com/connortessaro/prooflane)** — Real-time ML order scoring engine for mitigating eCommerce chargeback risk.
+* **[shopify-web-replicator](https://github.com/connortessaro/shopify-web-replicator)** — Deterministic storefront replication server exposed as a native Model Context Protocol (MCP) tool.
+* **[slr-citation-audit](https://github.com/connortessaro/slr-citation-audit)** — High-throughput citation coverage analyzer for systematic literature reviews.
 
-| | |
-| :-- | :-- |
-| [prooflane](https://github.com/connortessaro/prooflane) | Scores Shopify orders for chargeback risk before they hit |
-| [shopify-web-replicator](https://github.com/connortessaro/shopify-web-replicator) | Deterministic storefront replication, exposed as an MCP server |
-| [slr-citation-audit](https://github.com/connortessaro/slr-citation-audit) | Citation coverage analysis for systematic literature reviews |
-| [phantom-api](https://github.com/connortessaro/phantom-api) | Sanitized source for the inference proxy above |
+---
 
-## Stack
+### 🛠️ Tech Stack
 
-`TypeScript` `Python` `Rust` `Java` `C++` `SQL` &nbsp;·&nbsp; `React` `Tauri` `Next.js` `SvelteKit` `Node.js` `FastAPI` &nbsp;·&nbsp; `Postgres` `SQLite` `Snowflake` `XGBoost` `pandas` &nbsp;·&nbsp; `AWS` `Terraform` `Docker` `Jenkins`
+```text
+Languages     :: TypeScript, Rust, Python, Java, C++, SQL, Go
+Frontend/App  :: React 19, Tauri v2, Next.js, TailwindCSS, Vite
+Backend/Cloud :: Node.js, FastAPI, PostgreSQL, SQLite, Redis, AWS, Docker, Terraform
+ML & Tooling  :: Model Context Protocol (MCP), LLM Evals, XGBoost, Pandas, Git, CI/CD
+```
+
+---
 
 <div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=connortessaro&bg_color=0d1117&color=c9d1d9&line=16784a&point=ffffff&area=true&area_color=16784a&hide_border=true&custom_title=Contributions" alt="activity graph" />
-
+<sub>Built with precision · Boston, MA</sub>
 </div>
+
