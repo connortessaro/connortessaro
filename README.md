@@ -28,6 +28,7 @@
 | :-- | :-- |
 | **[omni](https://github.com/connortessaro/omni)** | Fast, stealthy AI desktop overlay assistant built with Tauri v2, Rust & React. Slash commands, keyboard prompt history, 1-click local Ollama auto-discovery, zero telemetry. Apache-2.0. |
 | **[kizuki](https://github.com/connortessaro/kizuki)** | Agent-neutral intelligence layer over your work. Local git-tracked vault, MCP-native, never acts on your behalf. Apache-2.0. |
+| **[arc](https://github.com/connortessaro/arc)** | Premium operator shell for orchestrating agentic coding work and developer workflows. Apache-2.0. |
 | **[prisma/prisma](https://github.com/prisma/prisma)** | Fixed DateTime fields returning `Invalid Date` for `unixepoch-ms` timestamps in the better-sqlite3 driver adapter, with a regression test. [#29274](https://github.com/prisma/prisma/pull/29274) |
 
 ## Also here
@@ -46,6 +47,5 @@
 <div align="center">
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=connortessaro&bg_color=0d1117&color=c9d1d9&line=16784a&point=ffffff&area=true&area_color=16784a&hide_border=true&custom_title=Contributions" alt="activity graph" />
-
 
 </div>
