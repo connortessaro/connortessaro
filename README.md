@@ -17,7 +17,7 @@ CS @ Northeastern '28 · Software Engineer Co-op @ Chewy · Boston, MA
 ### Systems & Projects
 
 - **[Ringi](https://ringi.dev)** — Slack agent for async team decisions. Drives conversations through typed state machines, evaluates 4 candidate models (Gemini, Claude, GPT), and tracks latency/cost via Langfuse.
-- **[Phantom AI](https://phantom.codes)** — AI inference API that signs a receipt for every call, so you can check which model actually served it. Child keys give each subagent its own budget and limits.
+- **[Phantom AI](https://phantom.codes)** — AI inference API that signs a receipt for every call, so you can check which model served it. Child keys give each subagent its own budget and limits.
 - **[Prooflane](https://github.com/connortessaro/prooflane)** — Shopify application scoring orders for chargeback risk with automated dispute workflows.
 - **[LeagueIQ](https://github.com/connortessaro/leagueiq)** — Post-game match impact analysis engine processing Riot Games match & timeline data.
 
