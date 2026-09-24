@@ -9,7 +9,7 @@ CS @ Northeastern '28 · Software Engineer Co-op @ Chewy · Boston, MA
 ### Open Source
 
 - **[prisma/orm](https://github.com/prisma/orm)** (47K★) — Resolved timestamp parsing bug in SQLite driver adapter ([#29274](https://github.com/prisma/orm/pull/29274)); merged second upstream PR closing a 5-year-old request ([#29269](https://github.com/prisma/orm/pull/29269)).
-- **[pai](https://github.com/connortessaro/pai)** (MIT, npm [`@connortessaro/pai`](https://www.npmjs.com/package/@connortessaro/pai)) — CLI and MCP server that gives agents keys, budgets and a wallet on Phantom.
+- **[pai](https://github.com/connortessaro/pai)** (MIT, npm [`@connortessaro/pai`](https://www.npmjs.com/package/@connortessaro/pai)) — Open-source client for Phantom AI. A CLI and MCP server that lets agents manage their own keys, budgets and payments.
 - **[kizuki](https://github.com/connortessaro/kizuki)** (Apache-2.0) — Local-first intelligence engine and Model Context Protocol (MCP) server for multi-agent workflows. Live demo at [demo.kizuki.dev](https://demo.kizuki.dev).
 
 ---
