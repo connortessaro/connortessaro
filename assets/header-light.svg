@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Connor Tessaro. CS at Northeastern, Software Engineer Co-op at Chewy.">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#d0d7de"/></pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0.25" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#1a7f37"/>
+      <stop offset="1" stop-color="#0969da"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="280" rx="16"/></clipPath>
+    <clipPath id="typed">
+      <rect x="72" y="200" height="40" width="0">
+        <animate attributeName="width" values="0;12;24;36;48;60;72;84;96;108;120;132;144;156;168;180;192;204;216;228;240;252;264;276;288;300;312;324;336;348;360;372;384;396;408;420;432;444;456" calcMode="discrete" begin="0.6s" dur="2.2s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="280" fill="#ffffff"/>
+    <rect width="1200" height="280" fill="url(#dots)"/>
+    <rect width="1200" height="280" fill="url(#fade)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="279" rx="16" fill="none" stroke="#d0d7de"/>
+  <text x="72" y="118" fill="#1f2328" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1.5">Connor Tessaro</text>
+  <rect x="72" y="138" width="0" height="4" rx="2" fill="url(#accent)">
+    <animate attributeName="width" from="0" to="120" begin="0.1s" dur="0.6s" fill="freeze"/>
+  </rect>
+  <text x="72" y="184" fill="#59636e" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22">CS @ Northeastern '28  ·  Software Engineer Co-op @ Chewy  ·  Boston, MA</text>
+  <text x="72" y="230" clip-path="url(#typed)" fill="#1a7f37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" textLength="456" lengthAdjust="spacingAndGlyphs">$ building kizuki · ringi · phantom ai</text>
+  <rect x="74" y="212" width="10" height="22" fill="#1a7f37">
+    <animate attributeName="x" values="74;86;98;110;122;134;146;158;170;182;194;206;218;230;242;254;266;278;290;302;314;326;338;350;362;374;386;398;410;422;434;446;458;470;482;494;506;518;530" calcMode="discrete" begin="0.6s" dur="2.2s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
