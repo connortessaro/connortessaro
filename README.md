@@ -10,7 +10,7 @@ CS @ Northeastern '28 · Software Engineer Co-op @ Chewy · Boston, MA
 
 - **[prisma/orm](https://github.com/prisma/orm)** (47K★) — Resolved timestamp parsing bug in SQLite driver adapter ([#29274](https://github.com/prisma/orm/pull/29274)); merged second upstream PR closing a 5-year-old request ([#29269](https://github.com/prisma/orm/pull/29269)).
 - **[pai](https://github.com/connortessaro/pai)** (MIT, npm [`@connortessaro/pai`](https://www.npmjs.com/package/@connortessaro/pai)) — Open-source client for Phantom AI. A CLI and MCP server that lets agents manage their own keys, budgets and payments.
-- **[kizuki](https://github.com/connortessaro/kizuki)** (Apache-2.0) — Local-first intelligence engine and Model Context Protocol (MCP) server for multi-agent workflows. Live demo at [demo.kizuki.dev](https://demo.kizuki.dev).
+- **[kizuki](https://github.com/connortessaro/kizuki)** (Apache-2.0, npm [`kizuki`](https://www.npmjs.com/package/kizuki)) — Study tool that runs on your computer. You teach a concept back, and a local model asks about what you got wrong or left out, quoting your own course material. Live demo at [demo.kizuki.dev](https://demo.kizuki.dev).
 
 ---
 
@@ -28,4 +28,4 @@ CS @ Northeastern '28 · Software Engineer Co-op @ Chewy · Boston, MA
 - **Languages:** TypeScript, Python, Java, C++, Go, SQL
 - **Frontend & Backend:** React, Next.js, Node.js, FastAPI, REST APIs, Microservices
 - **Cloud & Infra:** AWS (ECS, ECR, S3), Kubernetes, Docker, Terraform, Jenkins, CI/CD
-- **Data & Storage:** PostgreSQL, Snowflake, Redis, Drizzle ORM, Langfuse
+- **Data & Storage:** PostgreSQL, SQLite, Snowflake, Redis, Drizzle ORM, Langfuse, Ollama
