@@ -22,11 +22,11 @@
       <br><br>
       <code>TypeScript</code> <code>Next.js</code> <code>SQLite</code> <code>Ollama</code>
       <br><br>
-      <a href="https://github.com/connortessaro/kizuki">Code</a> · <a href="https://www.npmjs.com/package/kizuki">npm</a> · <a href="https://demo.kizuki.dev">Live demo</a>
+      <a href="https://github.com/connortessaro/kizuki">Code</a> · <a href="https://www.npmjs.com/package/kizuki">npm</a>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://ringi.dev">Ringi</a></h4>
-      A Slack agent for team decisions. It moves each discussion through fixed steps, and I test 4 candidate models (Gemini, Claude, GPT) for speed and cost with Langfuse.
+      A Slack app for team decisions. It asks each person for their view in private, finds the real disagreement, and posts a brief with one recommendation. It runs on Gemini: in my tests Claude made up numbers when people's facts conflicted, and cost more. Langfuse logs each model call.
       <br><br>
       <code>TypeScript</code> <code>Slack Bolt</code> <code>PostgreSQL</code> <code>Langfuse</code>
       <br><br>
@@ -36,15 +36,15 @@
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://phantom.codes">Phantom AI</a></h4>
-      An AI API that signs a receipt for every call, so you can check which model answered it. Child keys give each subagent its own budget and limits.
+      An AI API that works with OpenAI's client libraries. You pay up front for a key, by card or with crypto on Solana. Each call returns a signed receipt of the model, tokens and cost. A key can make child keys, each with its own spending limit, for subagents.
       <br><br>
-      <code>TypeScript</code> <code>Next.js</code> <code>PostgreSQL</code> <code>Stripe</code>
+      <code>TypeScript</code> <code>Next.js</code> <code>PostgreSQL</code> <code>Stripe</code> <code>Solana</code>
       <br><br>
       <a href="https://phantom.codes">Website</a>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/connortessaro/pai">pai</a></h4>
-      The open-source client for Phantom AI. A command-line tool and MCP server that lets agents manage their own keys, budgets, and payments.
+      The open-source client for Phantom AI: a command-line tool and an MCP server, the format AI agents use to call tools. Agents use it to make child keys, set budgets, and buy credit from a wallet.
       <br><br>
       <code>TypeScript</code> <code>Node.js</code> <code>MCP</code>
       <br><br>
@@ -55,11 +55,11 @@
 
 ### Open source
 
-- **[prisma/orm](https://github.com/prisma/orm)** (47K★): fixed a timestamp parsing bug in the SQLite driver adapter ([#29274](https://github.com/prisma/orm/pull/29274)), and merged a second PR that closed a 5-year-old request ([#29269](https://github.com/prisma/orm/pull/29269)).
+- **[prisma/orm](https://github.com/prisma/orm)**: fixed dates coming back as `Invalid Date` in the SQLite adapter ([#29274](https://github.com/prisma/orm/pull/29274)), and added the `distinct` option to the `findMany` docs, closing a request open since 2021 ([#29269](https://github.com/prisma/orm/pull/29269)).
 
 ### Earlier projects
 
-- **[Prooflane](https://github.com/connortessaro/prooflane)**: a Shopify app that scores orders for chargeback risk and handles disputes automatically.
+- **[Prooflane](https://github.com/connortessaro/prooflane)**: a Shopify app that flags orders likely to end in an "item not received" chargeback and suggests what to do before the buyer files one.
 - **[LeagueIQ](https://github.com/connortessaro/leagueiq)**: after-game analysis that measures each player's impact from Riot Games match data.
 
 ### Stack
@@ -73,9 +73,3 @@
 </p>
 
 Also: Snowflake, Drizzle ORM, Langfuse, Ollama.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/connortessaro/connortessaro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/connortessaro/connortessaro/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/connortessaro/connortessaro/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
