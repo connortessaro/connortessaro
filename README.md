@@ -18,7 +18,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://kizuki.dev">Kizuki</a></h4>
-      A study tool that runs on your computer. You explain a concept, and Kizuki plays the student, asking where you got it wrong, left something out, or stayed vague. The model only points at sentences of your course material. Code writes each question from a template and checks every quote word for word, so it can't state a fact of its own.
+      A study tool that runs on your computer. You explain a concept and Kizuki plays the student. It asks where you got it wrong, what you left out, and what you said vaguely. The model can only point at sentences in your course material, and Kizuki checks each quote word for word before you see it.
       <br><br>
       <code>TypeScript</code> <code>Next.js</code> <code>SQLite</code> <code>Ollama</code>
       <br><br>
