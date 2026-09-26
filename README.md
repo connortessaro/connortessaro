@@ -5,12 +5,17 @@
 </picture>
 
 <p align="center">
+  <a href="https://connortessaro.dev"><img src="https://img.shields.io/badge/Website-connortessaro.dev-f0f6fc?style=flat-square&labelColor=161b22" alt="Website: connortessaro.dev"></a>&nbsp;
   <a href="https://kizuki.dev"><img src="https://img.shields.io/badge/Kizuki-kizuki.dev-7ee787?style=flat-square&labelColor=161b22" alt="Kizuki: kizuki.dev"></a>&nbsp;
   <a href="https://ringi.dev"><img src="https://img.shields.io/badge/Ringi-ringi.dev-79c0ff?style=flat-square&labelColor=161b22" alt="Ringi: ringi.dev"></a>&nbsp;
   <a href="https://phantom.codes"><img src="https://img.shields.io/badge/Phantom_AI-phantom.codes-d2a8ff?style=flat-square&labelColor=161b22" alt="Phantom AI: phantom.codes"></a>&nbsp;
   <a href="https://linkedin.com/in/connortessaro"><img src="https://img.shields.io/badge/LinkedIn-connortessaro-58a6ff?style=flat-square&labelColor=161b22" alt="LinkedIn: connortessaro"></a>&nbsp;
   <a href="mailto:tessaro.c@northeastern.edu"><img src="https://img.shields.io/badge/Email-tessaro.c%40northeastern.edu-ffa657?style=flat-square&labelColor=161b22" alt="Email: tessaro.c@northeastern.edu"></a>
 </p>
+
+### At Chewy
+
+Software Engineer Co-op on the labor and capacity planning team. I cut a labor-planning batch job from 60 minutes to 10 by merging 168 Snowflake queries into 13.
 
 ### Building now
 
@@ -26,7 +31,7 @@
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://ringi.dev">Ringi</a></h4>
-      A Slack app for team decisions. It asks each person for their view in private, finds the real disagreement, and posts a brief with one recommendation. It runs on Gemini: in my tests Claude made up numbers when people's facts conflicted, and cost more. Langfuse logs each model call.
+      A Slack app for team decisions. It asks each person for their view in private, finds where they disagree, and posts a brief with one recommendation. It runs on Gemini: in my tests Claude made up numbers when people's facts conflicted, and cost more. Langfuse logs each model call.
       <br><br>
       <code>TypeScript</code> <code>Slack Bolt</code> <code>PostgreSQL</code> <code>Langfuse</code>
       <br><br>
@@ -69,7 +74,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,postgres,sqlite,redis&theme=dark" alt="React, Next.js, Node.js, FastAPI, PostgreSQL, SQLite, Redis">
   <br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins&theme=dark" alt="AWS, Docker, Kubernetes, Terraform, Jenkins">
+  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,jenkins&theme=dark" alt="AWS, Docker, Terraform, Jenkins">
 </p>
 
 Also: Snowflake, Drizzle ORM, Langfuse, Ollama.
