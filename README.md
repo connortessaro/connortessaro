@@ -1,16 +1,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Connor Tessaro. CS @ Northeastern '28, Software Engineer Co-op @ Chewy, Boston, MA" src="assets/header-dark.svg" width="100%">
+  <img alt="Connor Tessaro. Software engineer, CS at Northeastern '28, Boston. Building Kizuki, Ringi, and Phantom AI." src="assets/header-dark.svg" width="100%">
 </picture>
 
 <p align="center">
-  <a href="https://connortessaro.dev"><img src="https://img.shields.io/badge/Website-connortessaro.dev-f0f6fc?style=flat-square&labelColor=161b22" alt="Website: connortessaro.dev"></a>&nbsp;
-  <a href="https://kizuki.dev"><img src="https://img.shields.io/badge/Kizuki-kizuki.dev-7ee787?style=flat-square&labelColor=161b22" alt="Kizuki: kizuki.dev"></a>&nbsp;
-  <a href="https://ringi.dev"><img src="https://img.shields.io/badge/Ringi-ringi.dev-79c0ff?style=flat-square&labelColor=161b22" alt="Ringi: ringi.dev"></a>&nbsp;
-  <a href="https://phantom.codes"><img src="https://img.shields.io/badge/Phantom_AI-phantom.codes-d2a8ff?style=flat-square&labelColor=161b22" alt="Phantom AI: phantom.codes"></a>&nbsp;
-  <a href="https://linkedin.com/in/connortessaro"><img src="https://img.shields.io/badge/LinkedIn-connortessaro-58a6ff?style=flat-square&labelColor=161b22" alt="LinkedIn: connortessaro"></a>&nbsp;
-  <a href="mailto:tessaro.c@northeastern.edu"><img src="https://img.shields.io/badge/Email-tessaro.c%40northeastern.edu-ffa657?style=flat-square&labelColor=161b22" alt="Email: tessaro.c@northeastern.edu"></a>
+  <a href="https://connortessaro.dev">connortessaro.dev</a> ·
+  <a href="https://kizuki.dev">Kizuki</a> ·
+  <a href="https://ringi.dev">Ringi</a> ·
+  <a href="https://phantom.codes">Phantom AI</a> ·
+  <a href="https://linkedin.com/in/connortessaro">LinkedIn</a> ·
+  <a href="mailto:tessaro.c@northeastern.edu">Email</a>
 </p>
 
 ### Building now
