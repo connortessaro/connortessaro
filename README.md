@@ -13,10 +13,6 @@
   <a href="mailto:tessaro.c@northeastern.edu"><img src="https://img.shields.io/badge/Email-tessaro.c%40northeastern.edu-ffa657?style=flat-square&labelColor=161b22" alt="Email: tessaro.c@northeastern.edu"></a>
 </p>
 
-### At Chewy
-
-Software Engineer Co-op on the labor and capacity planning team. I cut a labor-planning batch job from 60 minutes to 10 by merging 168 Snowflake queries into 13.
-
 ### Building now
 
 <table>
