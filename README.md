@@ -62,9 +62,9 @@ CS at Northeastern, Boston.
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,postgres,sqlite,redis&theme=dark" alt="React, Next.js, Node.js, FastAPI, PostgreSQL, SQLite, Redis">
   <br>
   <img src="https://skillicons.dev/icons?i=aws,docker,terraform,jenkins&theme=dark" alt="AWS, Docker, Terraform, Jenkins">
+  <br>
+  <img src="assets/stack-tools.svg" alt="Snowflake, Drizzle ORM, Langfuse, Ollama">
 </p>
-
-Also: Snowflake, Drizzle ORM, Langfuse, Ollama.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/connortessaro/connortessaro/output/github-contribution-grid-snake-dark.svg">
