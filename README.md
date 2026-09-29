@@ -2,7 +2,7 @@
 
 CS at Northeastern, Boston.
 
-[connortessaro.dev](https://connortessaro.dev) · [Kizuki](https://kizuki.dev) · [Ringi](https://ringi.dev) · [Phantom AI](https://phantom.codes) · [LinkedIn](https://linkedin.com/in/connortessaro) · [Email](mailto:tessaro.c@northeastern.edu)
+[connortessaro.dev](https://connortessaro.dev) · [LinkedIn](https://linkedin.com/in/connortessaro) · [Email](mailto:tessaro.c@northeastern.edu)
 
 ### Building now
 
