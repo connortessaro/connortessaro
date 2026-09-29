@@ -10,9 +10,7 @@ CS at Northeastern, Boston.
 
 **[Ringi](https://ringi.dev)**: Slack app for team decisions. Asks each person for their view in private, finds where they disagree, posts one brief with recommendation.
 
-**[Phantom AI](https://phantom.codes)**: AI API that works with OpenAI client libraries. Prepaid keys. Each call returns signed receipt: model, tokens, cost.
-
-**[pai](https://github.com/connortessaro/pai)**: command-line tool and MCP server for Phantom AI. Agents make child keys with own budgets, buy credit from wallet. [npm](https://www.npmjs.com/package/@connortessaro/pai)
+**[Phantom AI](https://phantom.codes)**: AI API that works with OpenAI client libraries. Prepaid keys. Each call returns signed receipt: model, tokens, cost. Agents use its command-line tool and MCP server, pai, to make child keys with own budgets and buy credit from wallet. [pai](https://github.com/connortessaro/pai) · [npm](https://www.npmjs.com/package/@connortessaro/pai)
 
 ### Open source
 
