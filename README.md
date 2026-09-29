@@ -1,17 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Connor Tessaro. Software engineer, CS at Northeastern '28, Boston. Building Kizuki, Ringi, and Phantom AI." src="assets/header-dark.svg" width="100%">
-</picture>
+# Connor Tessaro
 
-<p align="center">
-  <a href="https://connortessaro.dev">connortessaro.dev</a> ·
-  <a href="https://kizuki.dev">Kizuki</a> ·
-  <a href="https://ringi.dev">Ringi</a> ·
-  <a href="https://phantom.codes">Phantom AI</a> ·
-  <a href="https://linkedin.com/in/connortessaro">LinkedIn</a> ·
-  <a href="mailto:tessaro.c@northeastern.edu">Email</a>
-</p>
+CS at Northeastern, Boston.
+
+[connortessaro.dev](https://connortessaro.dev) · [Kizuki](https://kizuki.dev) · [Ringi](https://ringi.dev) · [Phantom AI](https://phantom.codes) · [LinkedIn](https://linkedin.com/in/connortessaro) · [Email](mailto:tessaro.c@northeastern.edu)
 
 ### Building now
 
