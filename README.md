@@ -6,65 +6,27 @@ CS at Northeastern, Boston.
 
 ### Building now
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://kizuki.dev">Kizuki</a></h4>
-      A study tool that runs on your computer. You explain a concept and Kizuki plays the student. It asks where you got it wrong, what you left out, and what you said vaguely. The model can only point at sentences in your course material, and Kizuki checks each quote word for word before you see it.
-      <br><br>
-      <code>TypeScript</code> <code>Next.js</code> <code>SQLite</code> <code>Ollama</code>
-      <br><br>
-      <a href="https://github.com/connortessaro/kizuki">Code</a> · <a href="https://www.npmjs.com/package/kizuki">npm</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://ringi.dev">Ringi</a></h4>
-      A Slack app for team decisions. It asks each person for their view in private, finds where they disagree, and posts a brief with one recommendation. It runs on Gemini: in my tests Claude made up numbers when people's facts conflicted, and cost more. Langfuse logs each model call.
-      <br><br>
-      <code>TypeScript</code> <code>Slack Bolt</code> <code>PostgreSQL</code> <code>Langfuse</code>
-      <br><br>
-      <a href="https://ringi.dev">Website</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://phantom.codes">Phantom AI</a></h4>
-      An AI API that works with OpenAI's client libraries. You pay up front for a key, by card or with crypto on Solana. Each call returns a signed receipt of the model, tokens and cost. A key can make child keys, each with its own spending limit, for subagents.
-      <br><br>
-      <code>TypeScript</code> <code>Next.js</code> <code>PostgreSQL</code> <code>Stripe</code> <code>Solana</code>
-      <br><br>
-      <a href="https://phantom.codes">Website</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/connortessaro/pai">pai</a></h4>
-      The open-source client for Phantom AI: a command-line tool and an MCP server, the format AI agents use to call tools. Agents use it to make child keys, set budgets, and buy credit from a wallet.
-      <br><br>
-      <code>TypeScript</code> <code>Node.js</code> <code>MCP</code>
-      <br><br>
-      <a href="https://github.com/connortessaro/pai">Code</a> · <a href="https://www.npmjs.com/package/@connortessaro/pai">npm</a>
-    </td>
-  </tr>
-</table>
+**[Kizuki](https://kizuki.dev)**: a study tool that runs on your computer. You explain a concept, and it asks where you got it wrong, quoting your own course material word for word. [Code](https://github.com/connortessaro/kizuki) · [npm](https://www.npmjs.com/package/kizuki)
+
+**[Ringi](https://ringi.dev)**: a Slack app for team decisions. It asks each person for their view in private, finds where they disagree, and posts one brief with a recommendation.
+
+**[Phantom AI](https://phantom.codes)**: an AI API that works with OpenAI's client libraries. You pay up front for a key, and each call returns a signed receipt of the model, tokens, and cost.
+
+**[pai](https://github.com/connortessaro/pai)**: Phantom AI's command-line tool and MCP server. Agents use it to make child keys with their own budgets and to buy credit from a wallet. [npm](https://www.npmjs.com/package/@connortessaro/pai)
 
 ### Open source
 
-- **[prisma/orm](https://github.com/prisma/orm)**: fixed dates coming back as `Invalid Date` in the SQLite adapter ([#29274](https://github.com/prisma/orm/pull/29274)), and added the `distinct` option to the `findMany` docs, closing a request open since 2021 ([#29269](https://github.com/prisma/orm/pull/29269)).
+**[prisma/orm](https://github.com/prisma/orm)**: fixed dates coming back as `Invalid Date` in the SQLite adapter ([#29274](https://github.com/prisma/orm/pull/29274)), and documented the `distinct` option for `findMany`, closing a request open since 2021 ([#29269](https://github.com/prisma/orm/pull/29269)).
 
-### Earlier projects
+### Earlier
 
-- **[Prooflane](https://github.com/connortessaro/prooflane)**: a Shopify app that flags orders likely to end in an "item not received" chargeback and suggests what to do before the buyer files one.
-- **[LeagueIQ](https://github.com/connortessaro/leagueiq)**: after-game analysis that measures each player's impact from Riot Games match data.
+**[Prooflane](https://github.com/connortessaro/prooflane)**: a Shopify app that flags orders likely to end in an "item not received" chargeback, before the buyer files one.<br>
+**[LeagueIQ](https://github.com/connortessaro/leagueiq)**: after-game analysis that measures each player's impact from Riot Games match data.
 
 ### Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,go&theme=dark" alt="TypeScript, JavaScript, Python, Java, C++, Go">
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,postgres,sqlite,redis&theme=dark" alt="React, Next.js, Node.js, FastAPI, PostgreSQL, SQLite, Redis">
-  <br>
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,jenkins&theme=dark" alt="AWS, Docker, Terraform, Jenkins">
-  <br>
-  <img src="assets/stack-tools.svg" alt="Snowflake, Drizzle ORM, Langfuse, Ollama">
-</p>
+<img src="assets/stack-build.svg" alt="TypeScript, Python, Go, React, Next.js, Node.js, PostgreSQL"><br>
+<img src="assets/stack-run.svg" alt="AWS, Docker, Terraform, Snowflake, Drizzle ORM, Langfuse, Ollama">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/connortessaro/connortessaro/output/github-contribution-grid-snake-dark.svg">
