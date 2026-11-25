@@ -2,7 +2,7 @@
 
 I study computer science at Northeastern, in Boston.
 
-[connortessaro.dev](https://connortessaro.dev) · [LinkedIn](https://linkedin.com/in/connortessaro) · [Email](mailto:tessaro.c@northeastern.edu)
+[LinkedIn](https://linkedin.com/in/connortessaro) · [Email](mailto:tessaro.c@northeastern.edu)
 
 ### What I'm building
 
